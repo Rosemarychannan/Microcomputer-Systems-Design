@@ -1,5 +1,5 @@
 # CPEN-412   
-repo organization and upload in progress
+(repo organization and upload in progress)   
 System Verilog, C
 # Embedded 68k Microcomputer System Design - DE1 SoC    
   * Engineered microcomputer system with a soft-core Motorola 68k processor on an Altera DE1-SoC FPGA platform.
